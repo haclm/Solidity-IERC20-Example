@@ -21,3 +21,10 @@ A simple ERC20 token smart contract implementation in Solidity, tested with Type
 
 ```bash
 npm install && npx hardhat test
+```
+
+    ✔ IERC20 should be able to verify all variants values
+    ✔ deployer should hava total supply balance
+    ✔ transfer should work correctly
+    ✔ approve and allowacne should work
+    ✔ transferFrom should work correctly
